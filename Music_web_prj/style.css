@@ -1,0 +1,1034 @@
+.body{
+    margin: 0;
+    min-width: 400px;
+    background-color:#161616FA;;
+    height: 4200px
+}
+
+.headers{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    color: white;
+    font-weight: 500;
+    
+    justify-content: space-between;
+    padding: 25px 150px;
+    text-transform: uppercase;
+    word-spacing: 1px;
+    line-height: 30px;
+    /* background-color:yellow; */
+    width: 1300px;
+
+   
+    
+}
+.headers .bb a {
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color:white;
+   
+
+
+}
+
+.headers a:hover {
+    color: rgb(169, 172, 255);
+}
+
+
+.Milligan{
+    color: white;
+    font-family: 'Nympha One', arial;
+    margin-top: -560px;
+    font-size: 100px;
+    letter-spacing: 17px;
+    margin-left: 400px;
+    text-align: center;
+}
+
+.M{
+   display: none;
+    color:white;
+}
+.jj{
+    /* background-color:yellow; */
+    width: 1000px;
+}
+
+.donda{
+    margin-top: 100px;
+    margin-left: 230px;
+    
+    background-color:#161616FA;
+
+}
+
+.container{
+    margin-top: 500px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: -100px;
+}
+
+.r{
+    font-size: 20px;
+    font-family: 'Nympha One', arial;
+
+}
+
+.b{
+    font-size: 13px;
+}
+
+
+
+
+.Music{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+
+    
+   
+}
+.Music h1{
+    padding-bottom: 40px;
+    color: rgb(169, 172, 255);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.Music p{
+    margin: 0 300px 0px 300px;
+    line-height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+.container1{
+    width: 1300px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+
+.container1 .col1{
+    margin-left: 10px; 
+    margin-top: 25px;
+    padding-left: 80px;
+
+    
+
+}
+
+
+.container1 .col2{
+    margin-left: 90px;
+
+
+
+
+}
+    
+    
+
+.container1 .col1 .d1{
+    color:rgb(233, 31, 31);
+    padding-bottom: 30px;
+
+    line-height: 35px;
+}
+
+
+.container1 .col1 .d2{
+    color: white;
+
+    line-height: 35px;
+}
+
+
+
+
+
+
+
+.container1 a {
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color:white;
+
+}
+
+.container1 a:hover {
+    color:rgb(241, 64, 64);
+}
+.container1 .bat{
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container2{
+    width: 1300px;
+    margin-top: 100px;
+}
+
+
+.container2 .col1{
+    margin-left: 80px;
+    margin-top: 15px;
+}
+
+
+.container2 .col2{
+    padding: 0px 40px 0px 70px;
+    
+    
+}
+.container2 .col2 .b2{
+    color: white;
+
+    line-height: 35px;
+}
+
+.bl{
+    padding-bottom: 30px;
+    color:rgb(101, 141, 97);
+   
+}
+p .b1{
+    line-height: 200px;
+}
+
+
+
+
+.container2 a {
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color:white;
+
+}
+
+.container2 a:hover {
+    color:rgb(101, 141, 97);
+}
+.container2 .bat{
+    margin-top: 120px;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.container3{
+    width: 1300px;
+    margin-top: 100px;
+    margin-bottom: 150px;
+}
+
+
+.container3 .col1{
+    margin-left: 30px; 
+    margin-top: 25px;
+    padding-left:50px;
+
+    
+
+}
+
+
+.container3 .col2{
+    margin-left: 80px;
+
+
+
+
+}
+    
+    
+
+.container3 .col1 .t1{
+    color:rgb(77, 73, 73);
+    padding-bottom: 30px;
+
+    line-height: 35px;
+}
+
+
+.container3 .col1 .t2{
+    color: white;
+
+    line-height: 35px;
+}
+
+
+
+
+
+
+
+.container3 a {
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 1px;
+    color:white;
+
+}
+
+.container3 a:hover {
+    color: gray;
+}
+.container3 .bat{
+    margin-top: 50px;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+
+.carousel{
+    width: 1300px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.c{
+    margin-left: 450px;
+    text-align: center;
+    width: 1300px;
+}
+
+.Also{
+    text-align: center;
+    margin-left: -20px;
+    color: rgb(245, 232, 241);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+nav{
+    float: left;
+}
+
+
+#toggle{
+    display: none;
+}
+.l1{
+    margin: 3px 0 5px 15px;
+    display: none;
+    font-size: 30px;
+    color:rgb(127, 150, 189);
+    
+}
+
+
+
+
+.container4{
+    width: 1300px;
+    padding-left: 200px;
+}
+
+.end{
+    margin-top: 30px;
+    line-height:40px;
+    /* margin-left: 100px; */
+
+}
+.end .bb a {
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color:white;
+    
+   
+
+
+}
+
+.end a:hover {
+    color: rgb(169, 172, 255);
+}
+
+
+
+
+
+
+
+.end1{
+    margin-top: 25px;
+    line-height:40px;
+
+}
+.end1 .bb a {
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color:white;
+    
+   
+
+
+}
+
+.end1 a:hover {
+    color: rgb(169, 172, 255);
+}
+
+
+.Milligann{
+    text-align: center;
+    margin-top: 80px;
+    color:white;
+    font-family: 'Nympha One', arial;
+    letter-spacing: 10px;
+    /* margin-left: -10px; */
+    padding-bottom: 100px;
+    
+}
+
+
+
+.final{
+    width: 1345px;
+    margin-top: 50px;
+    background-color:rgba(21, 21, 21, 0.582);
+    padding-bottom: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:600px){
+
+
+    .body{
+        min-width: 300px;
+        background-color: white;
+
+    }
+    
+.jj{
+    width: 100%;
+}
+    .donda{
+       
+        margin-top: 0px;
+       /* display: none; */
+        margin-left: 0px;
+        width: 100%;
+        height: 300px;
+       
+    } 
+   
+    .l1{
+        margin-right: auto;
+        display: block;
+        cursor: pointer;
+    }
+    #toggle:checked + .headers{
+        margin-right: auto;
+        display: none;
+        
+    }
+    
+
+    .headers{
+        color:black;
+        width:100%;
+        text-align: center;
+        background-color:white;
+        display: block;
+        font-size: 10px;
+        font-weight: 30px;
+        padding: 0px 0px;
+        padding-bottom: 20px;
+        padding-top: 50px;
+        margin-top: -50px;
+        
+
+    }
+    .headers .bb .a{
+        color: black;
+    }
+    
+
+    .headers .a {
+        text-decoration: none;
+        font-size: 18px;
+        letter-spacing: 2px;
+        color: black;
+    
+    
+    }
+    
+    .headers .bb  a:hover {
+        color: cadetblue;
+    }
+    
+
+
+    .Milligan{
+        display: none;
+        
+    }
+
+
+    .M{
+        display: block;
+        color:black;
+        font-weight: 900;
+        margin-top: -30px;
+        float: right;
+        width: 100%;
+    }
+
+
+   
+
+    .r{
+        margin-top: -450px;
+        color:black;
+        font-size: 15px;
+    }
+    .b{
+        color:black;
+        font-size: 11px;
+        margin-top: -8px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+    .Music{
+        margin-top: -350px;
+        text-align: center;
+        color: white;
+    
+        
+       
+    }
+    .Music h1{
+        padding-bottom: 40px;
+        color: rgb(92, 94, 214);
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        opacity: 0.9;
+    
+    }
+    .Music p{
+        margin: 0 50px 0px 50px;
+        color:black;
+        line-height: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        opacity: 0.7;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .container1{
+        margin-top: 50px;
+        width:471px;
+        
+        /* background-color: rgb(252, 225, 219); */
+        /* padding-bottom: 120px; */
+        margin-right: 100px;
+    
+    }
+    .container1 .row{
+        display: flex;
+        flex-flow: column-reverse;
+        
+    }
+    
+    
+    .container1 .col2{
+        margin-left: 0px;
+       
+    }
+    .container1 .dondar{
+        width: 483px
+    }
+    
+    .container1.col1{
+        margin-top: 0px;
+        /* padding: 10px 10px 10px 10px; */
+         
+
+       
+    }
+    
+        
+    
+    
+    .container1 .col1 .d2{
+        color: black;
+        margin-left: -75px;
+        margin-right: 30px;
+    
+        line-height: 30px;
+    }
+    
+   
+    .container1 .col1 .d1{
+        color: rgb(241, 64, 64);
+        margin-left: -75px;
+        margin-right: 30px;
+    
+        line-height: 30px;
+    }
+   
+    
+    
+    .container1 a {
+        text-decoration: none;
+        font-size: 14px;
+        letter-spacing: 0px;
+        color:black;
+        border: 0.2px solid black;
+        border-radius: 10px;
+        padding: 5px;
+        
+        
+    
+    
+    }
+    
+    .container1 a:hover {
+        color:rgb(241, 64, 64);
+        border: 2px solid rgb(241, 64, 64);
+    }
+    
+    
+    .container1 .bat{
+        letter-spacing: 1px;
+        font-size: 3px;
+        width: 100px;
+        margin-top: 50px;
+        margin-left: -75px;
+        
+
+
+
+        
+    
+    }
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+    .container2{
+        margin-top: -40px;
+        width:471px
+    }
+    
+    
+    .container2 .col1{
+        margin-left: 0px;
+        
+    }
+    .container2 .blonde{
+        width: 480px
+    }
+    
+    .col2{
+        margin-top: 0px;
+    }
+    .container2 .col2{
+        padding: 10px 10px 10px 10px;
+        
+        
+    }
+    .container2 .col2 .b2{
+        color: black;
+    
+        line-height: 30px;
+    }
+    
+    .container2 .col2 .bl{
+        padding-bottom: 30px;
+        color:rgb(101, 141, 97);
+        
+    }
+    
+    
+    
+    
+    
+    .container2 a {
+        text-decoration: none;
+        font-size: 14px;
+        letter-spacing: 0px;
+        color:black;
+        border: 0.2px solid black;
+        border-radius: 10px;
+        padding: 4px;
+        
+    
+    
+    }
+    
+    .container2 a:hover {
+        color:rgb(101, 141, 97);
+        border: 2px solid rgb(101, 141, 97);
+    }
+    .container2 .bat{
+        letter-spacing: 1px;
+        font-size: 3px;
+        width: 100px;
+        margin-top: 50px;
+        margin-left: 0px;
+        
+
+
+
+        
+    
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .container3{
+        margin-top: 150px;
+        width:471px
+        
+    }
+    .container3 .row{
+        display: flex;
+        flex-flow: column-reverse;
+        
+    }
+    
+    
+    .container3 .col2{
+        margin-left: 1px;
+       
+        
+    }
+    .container3 .dondar{
+        width: 480px
+    }
+    
+    .container3.col1{
+        margin-top: 0px;
+        padding: 10px 10px 10px 10px;
+
+       
+    }
+    
+        
+    
+    
+    .container3 .col1 .t2{
+        color: black;
+        margin-left: -70px;
+        margin-right: 30px;
+    
+        line-height: 30px;
+    }
+    
+   
+    .container3 .col1 .t1{
+        color: gray;
+        margin-left: -70px;
+        margin-right: 30px;
+    
+        line-height: 30px;
+    }
+   
+    
+    
+    .container3 a {
+        text-decoration: none;
+        font-size: 14px;
+        letter-spacing: 0px;
+        color:black;
+        border: 0.2px solid black;
+        border-radius: 10px;
+        padding: 4px;
+        
+    
+    
+    }
+    
+    .container3 a:hover {
+        color:gray;
+        border: 2px solid gray;
+    }
+    
+    
+    .container3 .bat{
+        letter-spacing: 1px;
+        font-size: 3px;
+        width: 100px;
+        margin-top: 100px;
+        margin-left: -70px;
+        
+    
+    }
+
+
+
+    .Also{
+        text-align: center;
+        font-size: 20px;
+        padding: -50px 10px 20px 50px;  
+        margin: -100px 40px 20px 50px;
+        color: rgb(161, 160, 209);
+        font-family:'Nympha One', arial;
+        padding-bottom: 20px;
+    }
+
+
+    .c{
+        
+       
+        margin-left: 52px;
+       
+    }
+    .d-block{
+        width: 378px;
+        height:378px;
+    }
+
+    .carousel{
+        width: 100%;
+        background-color: rgb(253, 253, 255);
+    }
+
+
+
+    
+
+
+
+    .Milligann{
+        width: 400px;
+        text-align: center;
+        margin-top: 80px;
+        color:white;
+        font-family: 'Nympha One', arial;
+        letter-spacing: 10px;
+        margin-left: 40px;
+        padding-bottom: 60px;
+        
+    }
+    
+    
+    
+    .final{
+        width: 100%;
+        margin-top: 50px;
+        background-color: gray;
+        height: 400px;
+        
+    }
+    
+    
+
+
+
+
+
+    .container4{
+        width: 100%;
+        margin-left: -120px;
+    
+    }
+    
+    .end{
+        margin-top: 0px;
+        line-height:30px;
+        margin-left: 15px;
+        padding-right: 0px;
+        
+    
+    }
+    .end .bb a {
+        text-decoration: none;
+        font-size: 13px;
+        letter-spacing: 2px;
+        color:white;
+        
+       
+    
+    
+    }
+    
+    .end a:hover {
+        color: rgb(169, 172, 255);
+    }
+    
+    
+    
+    
+    
+    
+    
+    .end1{
+        margin-top: 0px;
+        line-height:30px;
+        margin-left: 40px;
+        margin-right: 20px;
+    
+    }
+    .end1 .bb a {
+        text-decoration: none;
+        font-size: 13px;
+        letter-spacing: 2px;
+        color:white;
+        
+       
+    
+    
+    }
+    
+    .end1 a:hover {
+        color: rgb(169, 172, 255);
+    }
+    
+    
+    .Milligann{
+        text-align: center;
+        margin-top: 80px;
+        color:white;
+        font-family: 'Nympha One', arial;
+        letter-spacing: 10px;
+        /* margin-left: -10px; */
+        /* padding-bottom: 100px; */
+        
+    }
+    
+    
+    
+
+}
+

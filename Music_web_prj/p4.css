@@ -1,0 +1,689 @@
+.body{
+    margin: 0;
+    min-width: 400px;
+    background-color:#161616FA;;
+    height: 1500px
+}
+
+
+
+.headers .m{
+    margin-top: -10px;
+    color: white;
+    margin-right: -30px;
+    padding-left: 600px;
+    
+}
+.headers .m a {
+    text-decoration: none;
+    font-size: 90px;
+    font-weight: 90px;
+    letter-spacing: 2px;
+    color:white;
+   
+    
+   width: 1500px;
+
+
+}
+.headers{
+    font-family: 'Courier New', Courier, monospace;
+    display: flex;
+    color: white;
+    font-weight: 500;
+    
+    justify-content: space-between;
+    padding: 25px 60px;
+    text-transform: uppercase;
+    word-spacing: 1px;
+    line-height: 30px;
+    /* background-color:yellow; */
+    width: 1300px;
+
+   
+    
+}
+.headers .bb a {
+    text-decoration: none;
+    font-size: 18px;
+    letter-spacing: 2px;
+    color:white;
+   
+
+
+}
+
+.headers a:hover {
+    color: rgb(169, 172, 255);
+}
+
+
+
+.Every{
+    margin-top: 40px;
+    text-align: center;
+    color:white;
+    ;
+}
+.Every h1{
+    padding-bottom: 100px;
+}
+.Every h2{
+    text-align: left;
+    margin-left: 200px;
+    color: rgb(188, 199, 236);
+    padding-bottom: 30px;
+}
+.Every p{
+    text-align: left;
+    margin-top: 10px;
+    word-spacing: 2px;
+    letter-spacing: 4px;
+    color: rgb(220, 222, 231);
+    margin-left: 200px;
+    margin-right: 200px;
+    line-height: 40px;
+}
+
+
+
+.jj{
+    
+    width: 1300px;
+}
+
+.donda{
+    margin-top: 60px;
+    margin-left: 200px;
+    
+    background-color:#161616FA;
+
+}
+
+.container{
+    margin-top: 150px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    margin-left: -100px;
+}
+
+
+.b{
+    font-size: 13px;
+    font-family: 'Nympha One', arial;
+}
+
+
+
+.container12{
+    width: 1300px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+    padding-left: 110px;
+    padding-right: 65px;
+}
+
+
+.b{
+    font-size: 13px;
+    font-family: 'Nympha One', arial;
+}
+
+
+
+
+
+.container13{
+    width: 1300px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+    padding-left: 110px;
+    padding-right: 65px;
+}
+
+
+
+
+
+.container14{
+    width: 1300px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+    padding-left: 110px;
+    padding-right: 65px;
+}
+
+
+
+
+.container15{
+    width: 1300px;
+    margin-top: 50px;
+    color: white;
+    text-align: center;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    
+    padding-left: 110px;
+    padding-right: 65px;
+}
+
+
+
+
+
+.b{
+    font-size: 13px;
+    font-family: 'Nympha One', arial;
+}
+
+
+
+
+.Music{
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+
+    
+   
+}
+.Music h1{
+    padding-bottom: 40px;
+    color: rgb(188, 199, 236);
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.Music p{
+    margin: 0 300px 0px 300px;
+    line-height: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+nav{
+    float: left;
+}
+
+
+#toggle{
+    display: none;
+}
+.l1{
+    margin: 3px 0 5px 15px;
+    display: none;
+    font-size: 30px;
+    color:rgb(127, 150, 189);
+    
+}
+
+
+
+
+.container4{
+    width: 1300px;
+    padding-left: 200px;
+}
+
+.end{
+    margin-top: 30px;
+    line-height:40px;
+    /* margin-left: 100px; */
+
+}
+.end .bb a {
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color:white;
+    
+   
+
+
+}
+
+.end a:hover {
+    color: rgb(169, 172, 255);
+}
+
+
+
+
+
+
+
+.end1{
+    margin-top: 25px;
+    line-height:40px;
+
+}
+.end1 .bb a {
+    text-decoration: none;
+    font-size: 13px;
+    letter-spacing: 2px;
+    color:white;
+    
+   
+
+
+}
+
+.end1 a:hover {
+    color: rgb(169, 172, 255);
+}
+
+
+.Milligann{
+    text-align: center;
+    margin-top: 80px;
+    color:white;
+    font-family: 'Nympha One', arial;
+    letter-spacing: 10px;
+    /* margin-left: -10px; */
+    padding-bottom: 100px;
+    
+}
+
+
+
+.final{
+    width: 1345px;
+    margin-top: 50px;
+    background-color:rgba(21, 21, 21, 0.582);
+    padding-bottom: 100px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:600px){
+
+
+    .body{
+        height:100px;
+        min-width: 300px;
+        background-color: white;
+
+    }
+    
+.jj{
+    width: 100%;
+    
+}
+    .donda{
+       
+        margin-top: 50px;
+       /* display: none; */
+        margin-left: 0px;
+        width: 100%;
+        height: 300px;
+       
+    } 
+   
+    .l1{
+        margin-right: auto;
+        display: block;
+        cursor: pointer;
+    }
+    #toggle:checked + .headers{
+        margin-right: auto;
+        display: none;
+        
+    }
+
+
+    .headers .m{
+        display: none;
+    }
+    
+
+    .headers{
+        color:black;
+        width:100%;
+        text-align: center;
+        background-color:white;
+        display: block;
+        font-size: 10px;
+        font-weight: 30px;
+        padding: 0px 0px;
+        padding-bottom: 20px;
+        padding-top: 50px;
+        margin-top: -50px;
+        
+
+    }
+    .headers .bb .a{
+        color: black;
+    }
+    
+
+    .headers .a {
+        text-decoration: none;
+        font-size: 18px;
+        letter-spacing: 2px;
+        color: black;
+    
+    
+    }
+    
+    .headers .bb  a:hover {
+        color: cadetblue;
+    }
+    
+    /* .Every{
+        margin-top: 350px;
+        text-align: center;
+        color:rgb(75, 72, 72);
+    }
+
+
+    .Every h1{
+        margin-top: -40px;
+        text-align: center;
+        color:rgb(75, 72, 72);
+        font-size: 20px;
+
+    }
+    .Every p{
+        margin-top: 10px;
+        word-spacing: 1px;
+        letter-spacing: 3px;
+        color: rgb(43, 44, 48);
+        font-size: 13px;
+    } */
+
+    
+
+
+
+    .container{
+        display: block;
+        margin-top: 0px;
+        width: 400px;
+        color: white;
+        text-align: center;
+       
+        margin-bottom: 30;
+        margin-left: 40px;
+    }
+    
+    
+    .b{
+        font-size: 13px;
+        font-family: 'Nympha One', arial;
+    }
+    
+    
+    
+    .container12{
+        display: block;
+        width: 400px;
+        margin-top: 0px;
+        
+        color: white;
+        text-align: center;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        
+        padding-left: 65px;
+        padding-right: 10px;
+    }
+    
+    
+    .b{
+        font-size: 13px;
+        font-family: 'Nympha One', arial;
+    }
+    
+    
+    
+    
+    
+    .container13{
+        display: none;
+        width: 1300px;
+        margin-top: 50px;
+        color: white;
+        text-align: center;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        
+        padding-left: 110px;
+        padding-right: 65px;
+    }
+    
+    
+    
+    
+    
+    .container14{
+        display: none;
+        width: 1300px;
+        margin-top: 50px;
+        color: white;
+        text-align: center;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        
+        padding-left: 110px;
+        padding-right: 65px;
+    }
+    
+    
+    
+    
+    .container15{
+        display: none;
+        width: 1300px;
+        margin-top: 50px;
+        color: white;
+        text-align: center;
+        padding-bottom: 0;
+        margin-bottom: 0;
+        
+        padding-left: 110px;
+        padding-right: 65px;
+    }
+    
+    
+    
+    
+    
+    
+
+
+
+    .Music{
+        margin-top: 0px;
+        text-align: center;
+        color: white;
+    
+        
+       
+    }
+    .Music h1{
+        padding-bottom: 40px;
+        color: rgb(92, 94, 214);
+        font-size: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        opacity: 0.9;
+    
+    }
+    .Music p{
+        margin: 0 50px 0px 50px;
+        color:black;
+        line-height: 25px;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        opacity: 0.7;
+        padding-bottom: 15px;
+    }
+
+
+
+    .Milligann{
+        width: 400px;
+        text-align: center;
+        margin-top: 0px;
+        color:white;
+        font-family: 'Nympha One', arial;
+        letter-spacing: 10px;
+        margin-left: 40px;
+        padding-bottom: 60px;
+        
+    }
+    
+    
+    
+    .final{
+        width: 100%;
+        margin-top: 50px;
+        background-color: gray;
+        height: 400px;
+        
+    }
+    
+    
+
+
+
+
+
+    .container4{
+        width: 100%;
+        margin-left: -120px;
+    
+    }
+    
+    .end{
+        margin-top: 0px;
+        line-height:30px;
+        margin-left: 15px;
+        padding-right: 0px;
+        
+    
+    }
+    .end .bb a {
+        text-decoration: none;
+        font-size: 13px;
+        letter-spacing: 2px;
+        color:white;
+        
+       
+    
+    
+    }
+    
+    .end a:hover {
+        color: rgb(169, 172, 255);
+    }
+    
+    
+    
+    
+    
+    
+    
+    .end1{
+        margin-top: 0px;
+        line-height:30px;
+        margin-left: 40px;
+        margin-right: 20px;
+    
+    }
+    .end1 .bb a {
+        text-decoration: none;
+        font-size: 13px;
+        letter-spacing: 2px;
+        color:white;
+        
+       
+    
+    
+    }
+    
+    .end1 a:hover {
+        color: rgb(169, 172, 255);
+    }
+    
+    
+    .Milligann{
+        text-align: center;
+        margin-top: 80px;
+        color:white;
+        font-family: 'Nympha One', arial;
+        letter-spacing: 10px;
+       
+        
+    }
+    .final{
+        margin-top: -17px;
+    }
+
+
+    .Every{
+        width: 100%;
+        margin-top: -20px;
+        text-align: center;
+        color:rgb(20, 19, 19);
+        ;
+    }
+    .Every h1{
+        padding-bottom: 50px;
+    }
+    .Every h2{
+        margin-left: 15px;
+        margin-right: 15px;
+        text-align: left;
+       
+        color: rgb(233, 189, 93);
+        padding-bottom: 30px;
+    }
+    .Every p{
+        margin-left: 15px;
+        margin-right: 15px;
+        text-align: left;
+        margin-top: 10px;
+        
+        letter-spacing: 0px;
+        color: rgb(11, 12, 14);
+        
+        line-height: 25px;
+    }
+    
+    
+    
+    
+
+}
